@@ -1,0 +1,22 @@
+# ⚠️ 隐私：绝不提交任何个人健康数据 / NEVER commit personal health data
+health-profile.md
+profile.md
+.health-coach/
+**/health-profile.md
+**/my-profile.md
+*.private.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
